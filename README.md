@@ -26,7 +26,7 @@ An AR decor showcase which allows customers to virtually try out furniture & dec
 - Made in: Unity 2021.3
 - Language: C#
 - AR engine: Vuforia
-- Platform: Android
+- Platform: Android (8.0 Oreo and above)
 
 ## Working
 https://user-images.githubusercontent.com/62847649/204613467-c059be86-24e3-4ebc-91fd-ed35c59a66eb.mp4
