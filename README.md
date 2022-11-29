@@ -36,7 +36,7 @@ To open the source project in Unity, sign up for a Vuforia Developer account, do
 
 ## How To Run
 Print out the markers from the `Markers/` folder.
-Download `AR Decor.apk` from the [Releases](https://github.com/ArcticKangaroo/50-Shooter/releases/) page, transfer to your Android device and install.
+Download `AR Decor.apk` from the [Releases](https://github.com/ArcticKangaroo/AR-Decor/releases/) page, transfer to your Android device and install.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
